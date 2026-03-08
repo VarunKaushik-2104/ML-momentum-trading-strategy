@@ -20,6 +20,9 @@ Historical OHLCV data for major Indian stocks (2015–2025).
 - Predicted stock probabilities
 - Portfolio returns
 - Performance metrics
+## Results-Equity Curve
+- <img width="846" height="470" alt="image" src="https://github.com/user-attachments/assets/5ac194ba-2aae-4574-b0e4-5e274631144f" />
+
 
 ## Author
 
